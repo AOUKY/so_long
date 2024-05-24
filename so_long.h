@@ -6,14 +6,14 @@
 /*   By: haouky <haouky@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/13 13:18:39 by haouky            #+#    #+#             */
-/*   Updated: 2024/05/24 16:48:58 by haouky           ###   ########.fr       */
+/*   Updated: 2024/05/24 18:31:07 by haouky           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef SO_LONG_H
 # define SO_LONG_H
 
-# include "../MLX42/include/MLX42/MLX42.h"
+# include "MLX42/include/MLX42/MLX42.h"
 # include "Get_Next_Line/get_next_line.h"
 # include "ft_printf/ft_printf.h"
 # include "libft/libft.h"

@@ -1,7 +1,7 @@
 SRCS = so_long.c check_map.c file.c img_mv.c
 NAME = so_long
 CC = cc
-LIBMLX	= ../MLX42
+LIBMLX	= MLX42
 
 LIBS	= $(LIBMLX)/build/libmlx42.a -I"$(LIBMLX)/include/MLX42/MLX42.h" -lglfw -L"/Users/haouky/.brew/opt/glfw/lib/"
 CFLAGS	= -Wextra -Wall -Werror -Wunreachable-code -Ofast
